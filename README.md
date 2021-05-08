@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yogesh Chauhan.
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently exploring React and Advanced JavaScript.
+- 💞️ I’m looking to collaborate on a big team working on a complex project.
+- 📫 Reach me on Twitter, LinkedIn or Github @ydchauh.
