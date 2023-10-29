@@ -2,4 +2,4 @@
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently exploring Ellucian Colleague and Envision Basic.
 - 💞️ I’m looking to collaborate with a big team working on a complex project.
-- 📫 Reach me on Twitter, LinkedIn or Github @ydchauh.
+- 📫 Reach me on Twitter, LinkedIn or Github @AgileMindExec.
