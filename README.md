@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh Chauhan.
-- 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently exploring Ellucian Colleague and Envision Basic.
+- 👀 I’m have experience with Full Stack Web Development, Software Development and Salesforce Development.
+- 🌱 I’m currently working on .Net based projects in VB.Net, ASP.Net and C#.
 - 💞️ I’m looking to collaborate with a big team working on a complex project.
 - 📫 Reach me on Twitter, LinkedIn or Github @AgileMindExec.
